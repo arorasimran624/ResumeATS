@@ -1,0 +1,195 @@
+{
+    "basic_details": {
+      "primary_specialization": "Python Developer",
+      "dob": "1995-06-15",
+      "gender": "Male",
+      "brief_bio": "Passionate Python developer with 5+ years of experience in backend development, APIs, and automation. Skilled in FastAPI, Django, Flask, and cloud services."
+    },
+    "contact_details": {
+      "primary_contact_number": "+1-123-456-7890",
+      "primary_email": "python.dev@example.com",
+      "email": "python.dev@gmail.com",
+      "other_contacts": [
+        {
+          "phone": "+1-987-654-3210",
+          "email": "alt.python.dev@example.com"
+        }
+      ],
+      "weblinks": [
+        {
+          "weblink": "GitHub",
+          "url": "https://github.com/pythondev"
+        },
+        {
+          "weblink": "LinkedIn",
+          "url": "https://linkedin.com/in/pythondev"
+        },
+        {
+          "weblink": "Portfolio",
+          "url": "https://pythondevportfolio.com"
+        }
+      ],
+      "address": {
+        "address_line_1": "123 Python Street",
+        "address_line_2": "Apt 45",
+        "city": "San Francisco",
+        "state": "California",
+        "pincode": "94107",
+        "country": "USA"
+      }
+    },
+    "academic_details": {
+      "highest_qualification": {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "Stanford University",
+        "year_of_passing": "2017",
+        "cgpa": "3.9/4.0",
+        "semester_details": []
+      },
+      "higher_secondary_details": {
+        "school_name": "XYZ High School",
+        "board": "CBSE",
+        "medium": "English",
+        "year_of_passing": "2012",
+        "aggregate_percentage": "90%",
+        "location": {
+          "country": "USA",
+          "state": "California",
+          "city": "San Francisco",
+          "pincode": "94107"
+        }
+      },
+      "secondary_details": {
+        "school_name": "XYZ High School",
+        "board": "CBSE",
+        "medium": "English",
+        "year_of_passing": "2010",
+        "aggregate_percentage": "92%",
+        "location": {
+          "country": "USA",
+          "state": "California",
+          "city": "San Francisco",
+          "pincode": "94107"
+        }
+      }
+    },
+    "certifications": [
+      {
+        "name": "Certified Python Developer",
+        "provider": "Microsoft",
+        "enrollment_number": "PY123456",
+        "valid_till": "2026-12-31",
+        "key_skills": "Python, API Development, Django, FastAPI",
+        "description": "Certification covering advanced Python programming, API development, and database integration."
+      },
+      {
+        "name": "AWS Certified Solutions Architect",
+        "provider": "Amazon Web Services",
+        "valid_till": "2027-06-30",
+        "key_skills": "AWS, Cloud Computing, Lambda, S3, EC2",
+        "description": "Certification in designing scalable and secure cloud applications."
+      }
+    ],
+    "skills": {
+      "hard_skills": [
+        "Python", "Django", "Flask", "FastAPI", "SQL", "PostgreSQL", "MySQL", 
+        "MongoDB", "Redis", "Docker", "Kubernetes", "AWS", "Azure", 
+        "GraphQL", "Celery", "RabbitMQ", "Machine Learning", "TensorFlow"
+      ],
+      "soft_skills": [
+        "Problem-solving", "Teamwork", "Communication", "Agile Development",
+        "Mentoring", "Project Management"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Automated API Testing Tool",
+        "description": "Developed a Python-based API testing tool using FastAPI and Pytest.",
+        "project_link": "https://github.com/pythondev/api-testing-tool",
+        "start_date": "2023-01-10",
+        "end_date": "2023-06-15",
+        "key_skills": "Python, FastAPI, Pytest, REST APIs",
+        "team_size": 4
+      },
+      {
+        "name": "E-commerce Backend System",
+        "description": "Built a scalable e-commerce backend using Django and PostgreSQL.",
+        "project_link": "https://github.com/pythondev/ecommerce-backend",
+        "start_date": "2022-05-01",
+        "end_date": "2022-12-30",
+        "key_skills": "Django, PostgreSQL, AWS, REST APIs",
+        "team_size": 6
+      },
+      {
+        "name": "AI-Powered Resume Parser",
+        "description": "Developed an AI-based resume parser using NLP and FastAPI.",
+        "project_link": "https://github.com/pythondev/resume-parser",
+        "start_date": "2021-08-01",
+        "end_date": "2021-12-15",
+        "key_skills": "Python, FastAPI, NLP, Spacy, Machine Learning",
+        "team_size": 3
+      }
+    ],
+    "experience": [
+      {
+        "intership_or_job": "job",
+        "company_name": "Tech Solutions Inc.",
+        "job_type": "Full-time",
+        "industry_sector": "Software Development",
+        "designation": "Senior Python Developer",
+        "start_date": "2020-07-01",
+        "end_date": null,
+        "location_details": {
+          "city": "San Francisco",
+          "state": "California",
+          "pincode": "94107",
+          "country": "USA"
+        },
+        "mentor_name": "Michael Brown",
+        "mentor_designation": "Tech Lead",
+        "key_responsibilities": "Developing scalable web applications, optimizing API performance, mentoring junior developers.",
+        "currently_working_status": true
+      },
+      {
+        "intership_or_job": "internship",
+        "company_name": "Google",
+        "job_type": "Internship",
+        "industry_sector": "Technology",
+        "designation": "Software Engineering Intern",
+        "start_date": "2019-06-01",
+        "end_date": "2019-08-30",
+        "location_details": {
+          "city": "Mountain View",
+          "state": "California",
+          "pincode": "94043",
+          "country": "USA"
+        },
+        "mentor_name": "Sarah Johnson",
+        "mentor_designation": "Senior Software Engineer",
+        "key_responsibilities": "Worked on a microservices-based backend system using Flask and Kubernetes."
+      }
+    ],
+    "achievements_and_awards": {
+      "achievements": [
+        {
+          "achievements": "Best Python Developer Award",
+          "description": "Recognized as the Best Python Developer in 2022 for contributions to API optimization."
+        },
+        {
+          "achievements": "Top Contributor in Open Source",
+          "description": "Contributed to over 10+ open-source projects, including Django and FastAPI."
+        }
+      ],
+      "awards_and_scholarships": [
+        {
+          "name": "Python Excellence Scholarship",
+          "description": "Awarded for outstanding performance in Python development and contributions to open-source projects.",
+          "organisation": "Tech Community Foundation",
+          "date_of_issue": "2021-12-15"
+        }
+      ],
+      "co_curricular_activities": [
+        "Participated in Hackathons", "Technical Blogging", "Speaker at Python Conferences"
+      ]
+    }
+  } 
